@@ -2,6 +2,8 @@
 
 系统要维护就用用，哈哈~
 
+![Demo](./src/assets/demo.png)
+
 #### 需要修改的地方
 1. ont-maintenance/index.html中的页面title
 
